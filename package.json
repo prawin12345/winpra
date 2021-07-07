@@ -1,6 +1,6 @@
 {
   "name": "winpra",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A package named \"winpra\" …",
   "main": "index.js",
   "scripts": {
